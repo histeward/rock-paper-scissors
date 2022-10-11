@@ -1,2 +1,11 @@
 # rock-paper-scissors
-simple terminal Rock Paper Scissors game
+A simple terminal game I wanted to write that I had on my bucket list for ages
+
+### requirements
+
+```python
+import sys
+import os
+import random as rand
+
+```
