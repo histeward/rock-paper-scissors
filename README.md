@@ -17,7 +17,7 @@ from random import choice
 * from the `random` library import the `choice` functinon to make the computer choose a random answer
 
 **2 functions just for printing text letter by letter and one just for laziness**
-The slow reveal function and the lazy clearing the terminal function. 
+
 ```python
 def revealPrint(s):
     """
