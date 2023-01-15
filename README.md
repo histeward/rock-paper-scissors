@@ -1,7 +1,7 @@
 # rock-paper-scissors
 A simple terminal game I wanted to write that I had on my bucket list for ages.
 I refactored the code eventually.
-primarily the logic.
+Primarily the logic.
 Less lines and more readable to me at least.
 
 **Libraries**
